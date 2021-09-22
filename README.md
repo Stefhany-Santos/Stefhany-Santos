@@ -1,7 +1,5 @@
 ### E aí! Eu sou a Stefhany Santos 🤚 
 
-
-
 ![Stefhany GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMME3R&show_icons=true&theme=dark)</br>
 
 ### Linguagens que eu estudo no meu dia-a-dia:
@@ -14,3 +12,4 @@
 </div> 
 
 
+![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
