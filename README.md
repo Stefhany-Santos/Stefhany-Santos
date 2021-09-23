@@ -14,4 +14,4 @@
 
 ![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=SUMME3R&color=brightgreen&label=flat-VISUALIZAÇÕES)
+![](https://komarev.com/ghpvc/?username=SUMME3R&color=brightgreen&style=flat-square&label=VISUALIZAÇÕES)
