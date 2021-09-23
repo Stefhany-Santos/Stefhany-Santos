@@ -12,16 +12,14 @@
 <img align="right" alt="img" src="https://media.discordapp.net/attachments/752308997671092345/890278091560222760/Webp.net-gifmaker_1.gif?width=427&amp;height=427" style="width: 130px; height: 128px;">
 </div> 
 
-#
+##
+ 
 <div> 
    <a href = "mailto:stefhany.contato@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/stefhany-santos-6093061ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
-   [![Regedit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Stefhany_Summer)
+   <a href="https://discord.gg/RgyAcvzD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://www.reddit.com/user/Stefhany_Summer" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
 </div>
- 
+
 ![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
   
-![](https://komarev.com/ghpvc/?username=SUMME3R&color=brightgreen&style=flat-square&label=VISUALIZAÇÕES)
-![](https://hit.yhype.me/github/profile?user_id=81439112)
