@@ -20,6 +20,7 @@
 
    [![Regedit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Stefhany_Summer)
 </div>
+ 
 ![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
   
 ![](https://komarev.com/ghpvc/?username=SUMME3R&color=brightgreen&style=flat-square&label=VISUALIZAÇÕES)
