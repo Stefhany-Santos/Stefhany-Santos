@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/Stefhany-Santos">
  
-![Stefhany GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMME3R&show_icons=true&theme=dark)
+![Stefhany GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefhany-Santos&show_icons=true&theme=dark)
 <div>
 <div style="display: inline_block">
 <img align="center" alt="SUMMER-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,5 +21,5 @@
    <a href="https://www.reddit.com/user/Stefhany_Summer" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Stefhany-Santos/Stefhany-Santos/blob/output/github-contribution-grid-snake.svg)
   
