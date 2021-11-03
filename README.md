@@ -1,7 +1,7 @@
 ## E aí! Eu sou a Stefhany Santos 🤚 
 
 <div>
-<a href="https://github.com/SUMME3R">
+<a href="https://github.com/Stefhany-Santos">
  
 ![Stefhany GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMME3R&show_icons=true&theme=dark)
 <div>
