@@ -21,5 +21,5 @@
    <a href="https://www.reddit.com/user/Stefhany_Summer" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Stefhany-Santos/Stefhany-Santos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SUMME3R/SUMME3R/blob/output/github-contribution-grid-snake.svg)
   
