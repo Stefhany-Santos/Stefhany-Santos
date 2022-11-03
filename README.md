@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Apaixonada por tecnologia, desenvolvimento pessoal, comunicação e games. Atualmete estou me aprofundando em lógica de programação, algoritmos e cloud.
+  Apaixonada por tecnologia, desenvolvimento pessoal e games. <br>
+  Atualmete estou me aprofundando em lógica de programação, algoritmos e cloud.
 </p>
 
 <div align="left">
