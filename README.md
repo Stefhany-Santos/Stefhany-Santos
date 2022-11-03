@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Apaixonada por tecnologia, desenvolvimento pessoal, comunicação e games. 
-  Atualmete estou me aprofundando em lógica da programação, algoritmos e cloud.
+  Atualmete estou me aprofundando em lógica de programação, algoritmos e cloud.
 </p>
 
 <div>
