@@ -7,16 +7,19 @@
 </p>
 
 <div align="left">
-<h4>Linguagens:</h4> 
+<h4>Linguagens e  ferramentas:</h4> 
 <img align="center" alt="SUMMER-CSS" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-<img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="SUMMER-CSS" height="37" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+<img align="center" alt="SUMMER-CSS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+
 </div> 
 
  <div align="left">
  <h4>DevOps:</h4>
- <img align="center" alt="SUMMER-CSS" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
- <img align="center" alt="SUMMER-CSS" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
+ <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+ <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
  </div>
  
  <div align="left">
