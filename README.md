@@ -7,33 +7,39 @@
 </p>
 
 <div align="left">
-<h4>Linguagens e  ferramentas:</h4> 
-<img align="center" alt="SUMMER-CSS" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-<img align="center" alt="SUMMER-CSS" height="37" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img align="center" alt="SUMMER-CSS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-
+  <h4>Linguagens e  ferramentas:</h4> 
+  <img align="center" alt="SUMMER-CSS" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+  <img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="SUMMER-CSS" height="37" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+  <img align="center" alt="SUMMER-CSS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 </div> 
 
  <div align="left">
- <h4>DevOps:</h4>
- <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
- <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
+  <h4>DevOps:</h4>
+  <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+  <img align="center" alt="SUMMER-CSS" height="35" width="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
  </div>
  
  <div align="left">
- <h4>Ferramentas de desenvolvimento:</h4>
-  <img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="SUMMER-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <h4>Ferramentas de desenvolvimento:</h4>
+  <img align="center" alt="SUMMER-CSS" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="SUMMER-CSS" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="SUMMER-CSS" height="34" width="37" src="https://user-images.githubusercontent.com/81439112/199862837-9aa0717b-2cf7-4cc6-82e2-7afd64d0b142.png" />
  </div>
  
 <div align="left">
-<h4>Caso queira acompanhar meus conteúdos: </h4>
+ <h4>Caso queira acompanhar meus conteúdos: </h4>
  <div> 
-   <a href = "mailto:stefhany.contato@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"      target="_blank"></a>
-   <a href="https://www.linkedin.com/in/stefhany-santos-6093061ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/cqPC6Kb76w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href = "mailto:stefhany.contato@outlook.com" target="_blank">
+     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+   <a href="https://www.linkedin.com/in/stefhany-santos-6093061ba/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+   <a href="https://discord.gg/cqPC6Kb76w" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+   </a>
 </div>
 </div>
 
