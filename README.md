@@ -27,7 +27,7 @@
  <h4>Caso queira acompanhar meus conteúdos: </h4>
  <div> 
    <a href="https://www.linkedin.com/in/stefhany-santos-6093061ba/" target="_blank">
-     <img align="center" alt="SUMMER-CSS" width="40" height="60" src="https://skillicons.dev/icons?i=linkedin" target="_blanck"/>
+     <img align="center" alt="SUMMER-CSS" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" target="_blanck"/>
    </a>
    <a href="https://discord.gg/cqPC6Kb76w" target="_blank">
       <img align="center" alt="SUMMER-CSS" width="45" height="40" src="https://skillicons.dev/icons?i=discord" target="_blanck"/>
