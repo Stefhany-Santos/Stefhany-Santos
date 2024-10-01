@@ -8,7 +8,7 @@
 
 <div align="left">
   <h4>Linguagens e  ferramentas:</h4>
-  <img align="center" alt="SUMMER-CSS" width="350" height="40" margin="0" src="https://skillicons.dev/icons?i=html,css,js,angular,ts,bootstrap,sass,tailwind" />
+  <img align="center" alt="SUMMER-CSS" width="350" height="40" margin="0" src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,sass,tailwind" />
   <img align="center" alt="SUMMER-CSS" height="30" width="40" margin="0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 </div> 
 
