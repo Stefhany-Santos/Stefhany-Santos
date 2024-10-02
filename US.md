@@ -1,29 +1,29 @@
 <div align="center">
-  <h1>👋 Olá, seja bem vindo(a)!</h1>
+  <h1>👋 Hello, welcome!</h1>
 </div>
 
-<div align="center">Change language: <a href="https://github.com/Stefhany-Santos/Stefhany-Santos/blob/main/US.md" target="_blank">🇺🇸</a></div>
+<div align="center">Change language: <a href="https://github.com/Stefhany-Santos/Stefhany-Santos/blob/main/README.md" target="_blank">🇧🇷</a></div>
 
 <br>
 
-👩‍💻 **Desenvolvedora Front-End Jr** com mais de 2 anos de experiência, focando em criar soluções eficientes, com foco na experiência do usuário e interfaces intuitivas.
+👩‍💻 **Junior Front-End Developer** with over 2 years of experience, focusing on creating efficient solutions with an emphasis on user experience and intuitive interfaces.
 
-🎓 Atualmente cursando **Ciências da Computação** na **Universidade Paulista (UNIP)**.
+🎓 Currently pursuing a degree in **Computer Science** at **Universidade Paulista (UNIP)**.
 
-🔭 Trabalhando em **projetos pessoais** para aprimorar minhas habilidades e expandir meu portfólio.
+🔭 Working on **personal projects** to improve my skills and expand my portfolio.
 
-📖 Aprendendo ativamente **ReactJS**, **Angular** e **TypeScript** para me manter atualizada com as tendências do setor.
+📖 Actively learning **ReactJS**, **Angular**, and **TypeScript** to stay updated with industry trends.
 
-🎯 **Hobbies**: Jogadora ávida de jogos de FPS.
+🎯 **Hobbies**: Avid FPS gamer.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stefhany-santos/" target="_blank"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:6px 1px;"></a> 
   <a href = "mailto:stefhany.contato@outlook.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin:6px 1px;"></a>
 </div>
 
-## ⚡ Minhas Skills
+## ⚡ My Skills
 
-#### Linguagens e Ferramentas:
+#### Languages and Tools:
 
 <p>
   <a><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px 1px;"></a>
@@ -42,14 +42,14 @@
 #### DevOps:
 
 <p>
-  <a><img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:6px 0px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" style="margin:6px 1px;"></a>
 </p>
 
 ---
 
-#### Ferramentas de Desenvolvimento:
+#### Development Tools:
 
 <p>
   <a><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="margin:6px 1px;"></a>
@@ -59,7 +59,7 @@
 
 ---
 
-#### Ferramenta de Workflow:
+#### Workflow Tools:
 
 <p>
   <a><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
