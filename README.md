@@ -34,6 +34,7 @@
   <a><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" style="margin:6px 1px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" style="margin:6px 1px;"></a>
 </p>
 
@@ -64,6 +65,9 @@
 
 <p>
   <a><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
 </p>
 
 
