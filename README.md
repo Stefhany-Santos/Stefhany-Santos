@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, seja bem vindo(a)!</h1>
+  <h1>👋 Olá, seja bem-vindo(a)!</h1>
 </div>
 
 <div align="center">Change language: <a href="https://github.com/Stefhany-Santos/Stefhany-Santos/blob/main/US.md" target="_blank">🇺🇸</a></div>
