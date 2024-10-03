@@ -29,6 +29,7 @@
   <a><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin:6px 1px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin:6px 1px;"></a>
@@ -63,7 +64,10 @@
 #### Workflow Tools:
 
 <p>
-  <a><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+    <a><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+    <a><img height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+    <a><img height="25" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
+    <a><img height="25" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Jira" style="margin:6px 4px;"></a>
 </p>
 
 
