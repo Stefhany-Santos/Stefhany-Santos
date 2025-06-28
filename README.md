@@ -55,9 +55,11 @@
 #### Ferramentas de Desenvolvimento:
 
 <p>
+  <a><img height="25" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="Visual Studio Code" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin:6px 1px;"></a>
   <a><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin:6px 1px;"></a>
+  <a><img height="25" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" alt="Rider" style="margin:6px 1px;"></a>
 </p>
 
 ---
