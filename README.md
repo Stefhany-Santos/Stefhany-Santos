@@ -12,7 +12,7 @@
 
 🔭 Trabalhando em **projetos pessoais** para aprimorar minhas habilidades e expandir meu portfólio.
 
-📖 Aprendendo ativamente **ReactJS**, **Angular** e **TypeScript** para me manter atualizada com as tendências do setor.
+📖 Aprendendo ativamente **Angular** e **TypeScript** para me manter atualizada com as tendências do setor.
 
 🎯 **Hobbies**: Jogadora ávida de jogos de FPS.
 
