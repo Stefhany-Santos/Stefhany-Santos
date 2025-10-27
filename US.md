@@ -12,7 +12,7 @@
 
 🔭 Working on **personal projects** to improve my skills and expand my portfolio.
 
-📖 Actively learning **ReactJS**, **Angular**, and **TypeScript** to stay updated with industry trends.
+📖 Actively learning **Angular**, and **TypeScript** to stay updated with industry trends.
 
 🎯 **Hobbies**: Avid FPS gamer.
 
