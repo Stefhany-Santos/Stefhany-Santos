@@ -6,7 +6,7 @@
 
 <br>
 
-👩‍💻 **Desenvolvedora Front-End Jr** com mais de 3 anos de experiência, focando em criar soluções eficientes, com foco na experiência do usuário e interfaces intuitivas.
+👩‍💻 **Desenvolvedora Front-End** com mais de 3 anos de experiência, focando em criar soluções eficientes, com foco na experiência do usuário e interfaces intuitivas.
 
 🎓 Atualmente cursando **Ciências da Computação** na **Universidade Paulista (UNIP)**.
 
