@@ -6,7 +6,7 @@
 
 <br>
 
-👩‍💻 **Junior Front-End Developer** with over 2 years of experience, focusing on creating efficient solutions with an emphasis on user experience and intuitive interfaces.
+👩‍💻 **Front-End Developer** with over 2 years of experience, focusing on creating efficient solutions with an emphasis on user experience and intuitive interfaces.
 
 🎓 Currently pursuing a degree in **Computer Science** at **Universidade Paulista (UNIP)**.
 
