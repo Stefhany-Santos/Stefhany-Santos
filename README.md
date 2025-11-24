@@ -6,7 +6,7 @@
 
 <br>
 
-👩‍💻 **Desenvolvedora Front-End** com sólida experiência na criação de interfaces responsivas e focadas na experiência do usuário. Atualmente, meu objetivo é a arquitetura **Fullstack**.
+👩‍💻 **Desenvolvedora Front-End** com sólida experiência na criação de interfaces responsivas e focadas na experiência do usuário.
 
 🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)**.
 
