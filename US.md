@@ -12,7 +12,7 @@
 
 ☕ **Current Focus:** Expanding skills to Back-end, building robust RESTful APIs with **Java** and **Spring Boot**.
 
-🔭 Working on projects that integrate the power of **Angular** with the security of the **Java** ecosystem.
+🔭 Working on projects that integrate the power of **Angular** and **React** with the security of the **Java** ecosystem.
 
 🎯 **Hobbies:** Avid FPS player and tech enthusiast.
 
