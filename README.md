@@ -12,7 +12,7 @@
 
 ☕ **Foco atual:** Expandindo meus conhecimentos para o Back-end, construindo APIs RESTful robustas com **Java** e **Spring Boot**.
 
-🔭 Trabalhando em projetos que integram o poder do **Angular** com a segurança do ecossistema **Java**.
+🔭 Trabalhando em projetos que integram o poder do **Angular** e **React** com a segurança do ecossistema **Java**.
 
 🎯 **Hobbies:** Jogadora ávida de FPS e entusiasta de tecnologia.
 
