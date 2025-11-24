@@ -6,7 +6,7 @@
 
 <br>
 
-👩‍💻 **Front-End Developer** with solid experience in creating responsive interfaces focused on user experience. Currently aiming for **Fullstack** architecture.
+👩‍💻 **Front-End Developer** with solid experience in creating responsive interfaces focused on user experience.
 
 🎓 Computer Science undergraduate at **Universidade Paulista (UNIP)**.
 
