@@ -78,11 +78,6 @@
 
 <!-- BLOG-POST-LIST:START --><div style="margin-bottom: 10px;">
   <span style="color: #8b949e; font-size: 13px;">📅 17 Feb 2026</span><br/>
-  <a href="https://dev.to/stefhanysantos/teste-1293" style="font-size: 16px; font-weight: 600; color: #58a6ff;">
-    Teste
-  </a>
-</div><div style="margin-bottom: 10px;">
-  <span style="color: #8b949e; font-size: 13px;">📅 17 Feb 2026</span><br/>
   <a href="https://dev.to/stefhanysantos/teste-7ml" style="font-size: 16px; font-weight: 600; color: #58a6ff;">
     Automatizando posts do dev.to no README do GitHub com GitHub Actions
   </a>
