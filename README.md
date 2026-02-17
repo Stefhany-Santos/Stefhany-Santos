@@ -2,6 +2,9 @@
   <h1>👋 Olá, seja bem-vindo(a)!</h1>
 </div>
 
+[![An image of @stefhanysantos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stefhanysantos)](https://holopin.io/@stefhanysantos)
+
+
 <div align="center">Change language: <a href="https://github.com/Stefhany-Santos/Stefhany-Santos/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
 <br>
