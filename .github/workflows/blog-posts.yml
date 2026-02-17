@@ -21,6 +21,12 @@ jobs:
           max_post_count: 3
           date_format: "dd mmm yyyy"
           template: |
-            <div>
-              <h4><a href="$url">$title</a> | <em>📅 $date</em></h4>
+            <div style="margin-bottom: 14px;">
+              <a href="$url" style="font-size: 15.5px; font-weight: 600; color: #58a6ff; text-decoration: none;">
+                $title
+              </a>
+              <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
+                📅 $date · Dev.to
+              </div>
             </div>
+
