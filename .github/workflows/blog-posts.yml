@@ -22,5 +22,5 @@ jobs:
           date_format: "dd mmm yyyy"
           template: |
             <div>
-              • <code>$date</code> — <h4><a href="$url">$title</a></h4>
+              • <code>$date</code> — <span><a href="$url">$title</a></span>
             </div>
