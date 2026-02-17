@@ -91,5 +91,4 @@
   <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
     📅 17 Feb 2026 · Dev.to
   </div>
-  </br></br>
 </div><!-- BLOG-POST-LIST:END -->
