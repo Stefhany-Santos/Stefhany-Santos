@@ -77,5 +77,5 @@
 ### 📓 Minhas Publicações (Dev.to)
 
 <!-- BLOG-POST-LIST:START --><div>
-  <h4><a href="https://dev.to/stefhanysantos/teste-7ml">🚀 Automatizando posts do Dev.to no README do GitHub com GitHub Actions</a> | <em>📅 17 Feb 2026</em></h4>
+  <h4><em>📅 17 Feb 2026</em> | <a href="https://dev.to/stefhanysantos/teste-7ml">🚀 Automatizando posts do dev.to no README do GitHub com GitHub Actions</a></h4>
 </div><!-- BLOG-POST-LIST:END -->
