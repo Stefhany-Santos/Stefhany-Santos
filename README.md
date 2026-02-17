@@ -77,4 +77,5 @@
 ### 📓 Minhas Publicações (Dev.to)
 
 <!-- BLOG-POST-LIST:START -->
+- [Teste](https://dev.to/stefhanysantos/teste-7ml)
 <!-- BLOG-POST-LIST:END -->
