@@ -76,8 +76,18 @@
 
 ### 📓 Minhas Publicações (dev.to)
 
-<!-- BLOG-POST-LIST:START --><div>
-  <h4><a href="https://dev.to/stefhanysantos/teste-1293">Teste</a> | <em>📅 17 Feb 2026</em></h4>
-</div><div>
-  <h4><a href="https://dev.to/stefhanysantos/teste-7ml">Automatizando posts do dev.to no README do GitHub com GitHub Actions</a> | <em>📅 17 Feb 2026</em></h4>
+<!-- BLOG-POST-LIST:START --><div style="margin-bottom: 14px;">
+  <a href="https://dev.to/stefhanysantos/teste-1293" style="font-size: 15.5px; font-weight: 600; color: #58a6ff; text-decoration: none;">
+    Teste
+  </a>
+  <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
+    📅 17 Feb 2026 · Dev.to
+  </div>
+</div><div style="margin-bottom: 14px;">
+  <a href="https://dev.to/stefhanysantos/teste-7ml" style="font-size: 15.5px; font-weight: 600; color: #58a6ff; text-decoration: none;">
+    Automatizando posts do dev.to no README do GitHub com GitHub Actions
+  </a>
+  <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
+    📅 17 Feb 2026 · Dev.to
+  </div>
 </div><!-- BLOG-POST-LIST:END -->
