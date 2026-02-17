@@ -75,3 +75,6 @@
 ---
 
 ### 📓 Minhas Publicações (Dev.to)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
