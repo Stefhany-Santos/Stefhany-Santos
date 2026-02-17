@@ -71,3 +71,7 @@
   <img height="25" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" alt="Todoist" style="margin:6px 1px;">
   <img height="25" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" style="margin:6px 1px;">
 </p>
+
+---
+
+## 📓 Minhas Publicações (Dev.to)
