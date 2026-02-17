@@ -21,6 +21,4 @@ jobs:
           max_post_count: 3
           date_format: "dd mmm yyyy"
           template: |
-            <div>
-              <h4><em>📅 $date</em> | <a href="$url">$title</a></h4>
-            </div>
+            - <code>$date</code> — [$title]($url)
