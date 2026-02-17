@@ -74,4 +74,4 @@
 
 ---
 
-## 📓 Minhas Publicações (Dev.to)
+### 📓 Minhas Publicações (Dev.to)
