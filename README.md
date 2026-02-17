@@ -83,6 +83,7 @@
   <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
     📅 17 Feb 2026 · Dev.to
   </div>
+  </br></br>
 </div><div style="margin-bottom: 14px;">
   <a href="https://dev.to/stefhanysantos/teste-7ml" style="font-size: 15.5px; font-weight: 600; color: #58a6ff; text-decoration: none;">
     Automatizando posts do dev.to no README do GitHub com GitHub Actions
@@ -90,4 +91,5 @@
   <div style="margin-top: 4px; font-size: 12.5px; color: #8b949e;">
     📅 17 Feb 2026 · Dev.to
   </div>
+  </br></br>
 </div><!-- BLOG-POST-LIST:END -->
