@@ -20,7 +20,4 @@ jobs:
           feed_list: "https://dev.to/feed/stefhanysantos/"
           max_post_count: 3
           date_format: "dd mmm yyyy"
-          template: |
-            <div>
-              | [$title]($url) | $date |
-            </div>
+          template: "| $date | [$title]($url) |$newline"
