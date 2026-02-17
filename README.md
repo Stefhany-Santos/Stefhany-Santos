@@ -76,6 +76,7 @@
 
 ### 📓 Minhas Publicações (Dev.to)
 
-<!-- BLOG-POST-LIST:START -->
-- [Teste](https://dev.to/stefhanysantos/teste-7ml)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div>
+  <h4>🚀 <a href="https://dev.to/stefhanysantos/teste-7ml">Teste</a></h4>
+  <p><em>📅 17 Feb 2026</em></p>
+</div><!-- BLOG-POST-LIST:END -->
