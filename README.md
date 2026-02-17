@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <h1>👋 Olá, seja bem-vindo(a)!</h1>
-</div>
+</div> -->
 
 [![An image of @stefhanysantos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stefhanysantos)](https://holopin.io/@stefhanysantos)
 
