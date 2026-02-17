@@ -76,8 +76,6 @@
 
 ### 📓 Minhas Publicações (dev.to)
 
-<!-- BLOG-POST-LIST:START --><div>
-  | [Teste](https://dev.to/stefhanysantos/teste-1293) | 17 Feb 2026 |
-</div><div>
-  | [Automatizando posts do dev.to no README do GitHub com GitHub Actions](https://dev.to/stefhanysantos/teste-7ml) | 17 Feb 2026 |
-</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->| 17 Feb 2026 | [Teste](https://dev.to/stefhanysantos/teste-1293) |
+| 17 Feb 2026 | [Automatizando posts do dev.to no README do GitHub com GitHub Actions](https://dev.to/stefhanysantos/teste-7ml) |
+<!-- BLOG-POST-LIST:END -->
