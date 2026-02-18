@@ -23,8 +23,8 @@ jobs:
           template: |
             <div style="margin-bottom: 10px;">
               <span style="color: #8b949e; font-size: 13px;">📅 $date</span><br/>
-              <a href="$url" style="font-size: 16px; font-weight: 600; color: #58a6ff;">
-                • $title
+              • <a href="$url" style="font-size: 16px; font-weight: 600; color: #58a6ff;">
+                $title
               </a>
             </div>
 
