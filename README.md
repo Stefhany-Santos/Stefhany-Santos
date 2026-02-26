@@ -13,11 +13,11 @@
 
 🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)** e **MBA em Engenharia de Software**.
 
-☕ **Foco atual:** Expandindo meus conhecimentos para o Back-end, construindo APIs RESTful robustas com **Java** e **Spring Boot**.
+☕ **Foco atual:** Construção de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot, Clean Architecture e DDD (Domain-Driven Design)**.
 
 🔭 Trabalhando em projetos que integram o poder do **Angular** e **React** com a segurança do ecossistema **Java**.
 
-🎯 **Hobbies:** Jogadora ávida de FPS e entusiasta de tecnologia.
+🎯 **Hobbies:** Modder, entusiasta de tecnologia e jogadora ávida de FPS.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stefhany-santos/" target="_blank"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:6px 1px;"></a> 
