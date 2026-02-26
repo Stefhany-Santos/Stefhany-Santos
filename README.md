@@ -11,7 +11,7 @@
 
 👩‍💻 **Desenvolvedora Front-End** com sólida experiência na criação de interfaces responsivas e focadas na experiência do usuário.
 
-🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)**.
+🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)** e MBA em Engenharia de Software.
 
 ☕ **Foco atual:** Expandindo meus conhecimentos para o Back-end, construindo APIs RESTful robustas com **Java** e **Spring Boot**.
 
