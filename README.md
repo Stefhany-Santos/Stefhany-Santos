@@ -9,13 +9,13 @@
 
 <br>
 
-👩‍💻 **Desenvolvedora Front-End** com sólida experiência na criação de interfaces responsivas e focadas na experiência do usuário.
+👩‍💻 **Engenheira de Software Full-Stack** com base sólida em ecossistemas Front-end de alta performance e Back-end resiliente.
 
 🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)** e **MBA em Engenharia de Software**.
 
-☕ **Foco atual:** Construção de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot, Clean Architecture e DDD**.
+☕ **Foco atual:** Construção de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot, NestJS, Clean Architecture e DDD**.
 
-🔭 Trabalhando em projetos que integram o poder do **Angular** e **React** com a segurança do ecossistema **Java**.
+🔭 Trabalhando em projetos que integram o poder de interfaces modernas (**Angular, React e Next.js**) com a segurança arquitetural dos ecossistemas **Java e Node.js**.
 
 🎯 **Hobbies:** Modder, entusiasta de tecnologia e jogadora ávida de FPS.
 
