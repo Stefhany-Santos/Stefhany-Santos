@@ -13,7 +13,7 @@
 
 🎓 Cursando **Ciência da Computação** na **Universidade Paulista (UNIP)** e **MBA em Engenharia de Software**.
 
-☕ **Foco atual:** Construção de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot, Clean Architecture e DDD (Domain-Driven Design)**.
+☕ **Foco atual:** Construção de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot, Clean Architecture e DDD**.
 
 🔭 Trabalhando em projetos que integram o poder do **Angular** e **React** com a segurança do ecossistema **Java**.
 
