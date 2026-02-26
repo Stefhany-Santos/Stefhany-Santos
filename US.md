@@ -6,15 +6,15 @@
 
 <br>
 
-👩‍💻 **Front-End Developer** with solid experience in creating responsive interfaces focused on user experience.
+👩🏽‍💻 **Full-Stack Software Engineer** with a solid foundation in high-performance Front-end ecosystems and resilient Back-end architectures.
 
-🎓 Computer Science undergraduate at **Universidade Paulista (UNIP)**.
+🎓 B.S. in Computer Science student at UNIP and currently pursuing an **MBA in Software Engineering**.
 
-☕ **Current Focus:** Expanding skills to Back-end, building robust RESTful APIs with **Java** and **Spring Boot**.
+☕ **Current Focus:** Building scalable microservices and RESTful APIs using **Java, Spring Boot, NestJS, Clean Architecture, and DDD**.
 
-🔭 Working on projects that integrate the power of **Angular** and **React** with the security of the **Java** ecosystem.
+🔭 Working on projects that bridge the power of modern UIs (**Angular, React, and Next.js**) with the architectural security of **Java and Node.js** ecosystems.
 
-🎯 **Hobbies:** Avid FPS player and tech enthusiast.
+🎯 **Hobbies:** Modder, tech enthusiast, and avid FPS gamer..
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stefhany-santos/" target="_blank"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin:6px 1px;"></a> 
