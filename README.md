@@ -79,7 +79,7 @@
 <!-- BLOG-POST-LIST:START --><div style="margin-bottom: 10px;">
   <span style="color: #8b949e; font-size: 13px;">📅 27 Feb 2026</span><br/>
   • <a href="https://dev.to/stefhanysantos/como-expor-sua-api-local-em-net-https-com-ngrok-sem-erros-de-host-e-cors-3ef3" style="font-size: 16px; font-weight: 600; color: #58a6ff;">
-    Como expor sua API local em .NET &lpar;HTTPS&rpar; com Ngrok sem erros de Host e CORS
+    Como rodar seu Front-end no PC pessoal e o Backend &lpar;.NET&rpar; na máquina da empresa usando Ngrok
   </a>
 </div><div style="margin-bottom: 10px;">
   <span style="color: #8b949e; font-size: 13px;">📅 22 Feb 2026</span><br/>
