@@ -72,6 +72,12 @@
   <img height="25" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" style="margin:6px 1px;">
 </p>
 
+🎮 **Modding & Game Dev (FiveM):**
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-F4B41A?style=for-the-badge&logo=fivem&logoColor=black)
+![QBox Framework](https://img.shields.io/badge/QBox_Framework-005499?style=for-the-badge)
+
 ---
 
 ### 📓 Minhas Publicações (dev.to)
